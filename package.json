@@ -1,0 +1,16 @@
+{
+  "name": "@divriots/starter-style-dictionary",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve RadUTqBDyFX8ZDiIWlhd --open"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "lit": "^2.2.0",
+    "@divriots/dockit-core": "^0.7.2"
+  }
+}

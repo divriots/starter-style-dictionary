@@ -1,0 +1,57 @@
+{
+  "core": {
+    "color": {
+      "primary": {
+        "base": {
+          "value": "#14b8a7"
+        },
+        "light": {
+          "value": "#99f6e4"
+        },
+        "dark": {
+          "value": "#115e59"
+        }
+      },
+      "secondary": {
+        "base": {
+          "value": "#f97316"
+        },
+        "light": {
+          "value": "#fed7aa"
+        },
+        "dark": {
+          "value": "#9a3412"
+        }
+      },
+      "dark": {
+        "base": {
+          "value": "#171717"
+        },
+        "mild": {
+          "value": "#404040"
+        }
+      },
+      "light": {
+        "base": {
+          "value": "#fafafa"
+        },
+        "mild": {
+          "value": "#e5e5e5"
+        }
+      }
+    }
+  },
+  "semantic": {
+    "color": {
+      "error": {
+        "value": "#ef4444"
+      },
+      "success": {
+        "value": "#22c55e"
+      },
+      "info": {
+        "value": "#0ea5e9"
+      }
+    }
+  }
+}
