@@ -1,9 +1,9 @@
 /**
  * Do not edit directly
- * Generated on Wed, 02 Mar 2022 17:21:52 GMT
+ * Generated on Wed, 02 Mar 2022 17:23:37 GMT
  */
 
-export const StarterCoreColorPrimaryBase = "#14b8a7";
+export const StarterCoreColorPrimaryBase = "#14b8a6";
 export const StarterCoreColorPrimaryLight = "#99f6e4";
 export const StarterCoreColorPrimaryDark = "#115e59";
 export const StarterCoreColorSecondaryBase = "#f97316";
