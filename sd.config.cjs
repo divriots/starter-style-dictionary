@@ -1,4 +1,3 @@
-const sdToFigma = require('@divriots/style-dictionary-to-figma').default;
 const coreAndSemanticTokens = ['color'];
 const componentTokens = ['button'];
 
@@ -34,11 +33,6 @@ module.exports = {
      *   return output;
      * }
      */
-    figmaTokensPluginJson: (opts) => {
-      const { dictionary } = opts;
-      const parsedTokens = sdToFigma(dictionary.tokens);
-      return JSON.stringify(parsedTokens, null, 2);
-    },
   },
   platforms: {
     css: {
@@ -62,16 +56,6 @@ module.exports = {
       prefix: 'starter',
       buildPath: '',
       files: generateFilesArr(coreAndSemanticTokens, 'js', 'javascript/es6'),
-    },
-    json: {
-      transformGroup: 'js',
-      buildPath: '',
-      files: [
-        {
-          destination: 'figma-tokens.json',
-          format: 'figmaTokensPluginJson',
-        },
-      ],
     },
   },
 };

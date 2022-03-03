@@ -1,26 +1,25 @@
 {
- "packages": {
-  "dir": "",
-  "menu": [
-   [
-    "TOKENS",
-    [
-     "color",
-     "figma"
+  "packages": {
+    "dir": "",
+    "menu": [
+      [
+        "TOKENS",
+        [
+          "color"
+        ]
+      ],
+      [
+        "COMPONENTS",
+        [
+          "button"
+        ]
+      ],
+      [
+        "INFRASTRUCTURE",
+        [
+          "doc-layout"
+        ]
+      ]
     ]
-   ],
-   [
-    "COMPONENTS",
-    [
-     "button"
-    ]
-   ],
-   [
-    "INFRASTRUCTURE",
-    [
-     "doc-layout"
-    ]
-   ]
-  ]
- }
+  }
 }
