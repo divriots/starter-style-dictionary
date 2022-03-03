@@ -8,9 +8,9 @@
   "scripts": {
     "serve": "npx backlight@latest serve RadUTqBDyFX8ZDiIWlhd --open"
   },
-  "devDependencies": {},
-  "dependencies": {
-    "lit": "^2.2.0",
-    "@divriots/dockit-core": "^0.7.2"
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.7.2",
+    "@divriots/style-dictionary-to-figma": "^0.1.1",
+    "lit": "^2.2.0"
   }
 }
