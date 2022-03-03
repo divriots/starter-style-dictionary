@@ -1,6 +1,5 @@
 {
   "button": {
-    "tokenset": "set-button",
     "primary": {
       "background": {
         "type": "color",

@@ -1,6 +1,5 @@
 {
   "core": {
-    "tokenset": "set-core",
     "color": {
       "primary": {
         "base": {
@@ -53,7 +52,6 @@
     }
   },
   "semantic": {
-    "tokenset": "set-semantic",
     "color": {
       "error": {
         "type": "color",
