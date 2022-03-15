@@ -1,6 +1,6 @@
 # Style-Dictionary Starter
 
-This starter-kit is for new users that want to get into Design Tokens with [Style-Dictionary](https://amzn.github.io/style-dictionary/#/).
+Thius starter-kit is for new users that want to get into Design Tokens with [Style-Dictionary](https://amzn.github.io/style-dictionary/#/).
 In this starter we have a basic setup and some examples of tokens and token consumption.
 
 You can find the tokens and their outputs in `/color/src` and `/button/src`, the Style-Dictionary configuration file is `/sd.config.js`
